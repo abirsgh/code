@@ -8,7 +8,7 @@ int main() {
 	reverse(ss.begin(), ss.end());  //reverse a string 
 	if(s == ss)cout << "Palindrom\n";
 	else cout << "NO" << "\n";
-	cout << s.substr(2, 6);
+	cout << s.substr(2, 6);  //Print sub string 
 
 	string s = "aBcAcnd";
 	transform(s.begin(), s.end(), s.begin(), ::tolower);  //transform to lower
