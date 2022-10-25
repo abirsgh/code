@@ -1,2 +1,6 @@
   A - 65 , Z - 90
   a - 97 , z - 122
+  
+  set bit means the bit is 1
+  unset bit means the bit is 0
+  
