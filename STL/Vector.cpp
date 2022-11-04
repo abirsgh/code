@@ -2,10 +2,11 @@
 using namespace std;
 vector<int> v;
 
-void prnt() {
+void printVec(vector<int>v) {
 	for(int i = 0; i < (int)v.size(); i++) {
 		cout << v[i] << " ";
-	}cout << endl;
+	}
+	cout << endl;
 }
 
 int main(){
