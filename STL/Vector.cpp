@@ -17,7 +17,7 @@ int main(){
 	for(int i = 0; i < v.size(); i++) {
 		cout << v[i] << " ";
 	}cout << endl;
-	int mx = *min_element(v.begin(), v.end());
+	int mn = *min_element(v.begin(), v.end());
 	cout << INT_MIN << endl;
 	cout << INT_MAX << endl;
 	bool ok;
@@ -37,4 +37,10 @@ int main(){
 	v.erase(v.begin()+4); //(erases the fifth element of the vector v)
 	//Removes the elements in the range from start to end inclusive of the start and exclusive of the end.
 	v.erase(v.begin()+2,v.begin()+5); //(erases all the elements from the third element to the fifth element.)
+}
+
+
+int main(){
+	vector<int>v(10,3) // 10 size ka vector, all elelments will be 3
+	
 }
