@@ -40,5 +40,5 @@ int main(){
 
 int main(){
 	vector<int>v(10,3) // 10 size ka vector, all elelments will be 3
-	vector<int>v2=v    // copy a vector
+	vector<int>v2=v    // copy a vector //Time Complexity O(n)
 }
