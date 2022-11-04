@@ -31,7 +31,7 @@ int main(){
 	v.push_back(11);
 	prnt();
 	v.pop_back();
-	prnt();
+	printVec(v)
 	cout << v.front() << "\n";
 	//Removes the element present at position.  
 	v.erase(v.begin()+4); //(erases the fifth element of the vector v)
