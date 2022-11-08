@@ -15,4 +15,7 @@ int main(){
 		if(i&1) cout<<" odd"<<endl;
 		else cout<<" even" <<endl;
 	}
+	int n=5;
+	cout<<(n>>1)<<endl; // Dividing by 2
+	cout<<(n<<1)<<endl; // Multiplication by 2
 }
