@@ -1,6 +1,12 @@
-// Cout specific digit after decimal point
+#include <bits/stdc++.h>
+using namespace std;
 
-      cout<<fixed<<setprecision(2)<<area<<endl; 
+int main(){
       
-// pi value 
-      pi = acos(0.0)
+      // Cout specific digit after decimal point
+            cout<<fixed<<setprecision(2)<<area<<endl; 
+      
+      // pi value 
+            pi = acos(0.0);
+      
+}      
