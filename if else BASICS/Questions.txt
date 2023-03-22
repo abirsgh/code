@@ -1,0 +1,19 @@
+Write a C program to accept two integers and check whether they are equal or not.
+Write a C program to check whether a given number is even or odd. 
+Write a C program to check whether a given number is positive or negative.
+Write a C program to find whether a given year is a leap year or not.
+Write a C program to find the largest of three numbers.
+Write a C program to accept a coordinate point in an XY coordinate system and determine in which quadrant the coordinate point lies.
+Write a C program for reading any Month Number and displaying the Month name as a word. Go to the editor
+Write a program in C to read any Month Number in an integer and display the number of days for this month. Go to the editor
+Write a C program that computes the area of various geometrical shapes (Triangle, Rectangle, and Circle) using a menu-driven approach. 
+Write a C program to read any day number in an integer and display the day name in word format. Go to the editor Write a program in C to read any digit and display it in the word.
+Write a C program to calculate profit and loss on a transaction. 
+Write a program in C to calculate and print the electricity bill of a given customer. The customer ID, name (single character), and unit consumed by the user should be captured from the keyboard to display the total amount to be paid to the customer. The charge is as follows: Charge/unit up to 199 @1.20, 200 and above but less than 400 @1.50, 400 and above but less than 600 @1.80, 600 and above @2.00. If the bill exceeds Tk. 400 then a surcharge of 15% will be charged and the minimum bill should be Tk. 100/-
+Write a C program to check whether a triangle is Equilateral, Isosceles, or Scalene. 
+Write a C program to check whether a triangle can be formed with the given values for the angles.
+Write a C program to check whether a character is an alphabet, digit, or special character. 
+Write a C program to check whether an alphabet is a vowel or a consonant. 
+Write a C program to calculate the root of a quadratic equation.
+Write a C program to read the roll no, and marks of three subjects and calculate the total, percentage, and grade. 
+Write a C program to calculate the final grade of CSEDU 1st Year 1st Semester students. Take total marks as input for all the theory and lab courses. Note that the total marks for each theory course are 100 and the total marks for each lab course are 50.
