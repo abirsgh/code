@@ -15,5 +15,7 @@ int main(){
      else {
         printf("%d is not a leap year\n", year);
     }
+    
       
-}      
+    ASCII value of space = 32
+}      End of line = 10
